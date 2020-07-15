@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./font/Rimouski.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Wather App</title>
+</head>
+<body>
+    <div class="container">
+        <div class="app-title">
+            <p>Weather App</p>
+        </div>
+        <div class="notification"></div>
+        <div class="weather-container">
+            <div class="weather-icon">
+                <img src="./icons/unknown.png" alt="icon-unknown">
+            </div>
+            <div class="temperature-value">
+                <p>- °<span>C</span></p>
+            </div>
+            <div class="temperature-description">
+                <p>-</p>
+            </div>
+            <div class="location">
+                <p>-</p>
+            </div>
+        </div>
+        <div class="toggle">
+        <button onclick="changeTemp()">
+            <p>Change to °<span>F</span></p>
+        </button>
+        </div>
+        <footer>
+            <p>Made with ❤️ by <a href="https://github.com/syedgibran96" target=" ">Gibran</a></p>
+            
+        </footer>
+    </div>
+    
+</body>
+<script src="./app.js"></script>
+</html>
