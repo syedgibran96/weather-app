@@ -15,6 +15,7 @@ weather app using HTML, CSS, and JavaScript
 
 
 ```bash
+***If theres error
 // Add the below url at the beginning of api link to avoid error 
 
 https://cors-anywhere.herokuapp.com/
