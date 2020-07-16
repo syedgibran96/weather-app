@@ -13,5 +13,10 @@ weather app using HTML, CSS, and JavaScript
 ### 🎨 Icons By 
 > [manifestinteractive](https://github.com/manifestinteractive/weather-underground-icons)
 
+```javascript
+// Add the below url at the beginning of api link to avoid error 
+https://cors-anywhere.herokuapp.com/
+```
+
 ### 🌐 Live Demo
 > https://syedgibran96.github.io/weatherapp/
