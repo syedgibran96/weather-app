@@ -18,7 +18,8 @@ weather app using HTML, CSS, and JavaScript
 *** If theres error ***
 
 // Add the below 👇 url at the beginning of api link 
-https://cors-anywhere.herokuapp.com/
+
+"https://cors-anywhere.herokuapp.com/"
 ```
 
 ### 🌐 Live Demo
