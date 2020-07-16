@@ -14,12 +14,12 @@ weather app using HTML, CSS, and JavaScript
 > [manifestinteractive](https://github.com/manifestinteractive/weather-underground-icons)
 
 
-``js
+```js
 *** If theres error ***
 
 // Add the below 👇 url at the beginning of api link 
 https://cors-anywhere.herokuapp.com/
-``
+```
 
 ### 🌐 Live Demo
 > https://syedgibran96.github.io/weatherapp/
